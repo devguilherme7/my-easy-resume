@@ -1,0 +1,11 @@
+:root {
+  --color-fg-primary: var(--color-slate-12);
+  --color-fg-secondary: var(--color-slate-8);
+
+  --color-bg-primary: var(--color-white);
+  --color-bg-secondary: var(--color-slate-1);
+
+  --color-border-base: var(--color-slate-5);
+
+  --color-error: var(--color-red-9);
+}
